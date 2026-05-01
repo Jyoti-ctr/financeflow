@@ -1,4 +1,4 @@
-# 💰 FinanceFlow
+# FinanceFlow
 
 A full-stack personal finance management application built with FastAPI (backend) and React (frontend). Track your income, expenses, and visualize your financial data with beautiful charts.
 
@@ -70,7 +70,7 @@ financeflow/
 #### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jyoti-ctr/financeflow.git
 cd financeflow
 ```
 
